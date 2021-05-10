@@ -23,6 +23,7 @@ Prerequisitos:
 
 ````sh
 docker-compose up -d
-docker-compose down 
 
+# para destruir contenedor y detener servicio de Redis en docker
+docker-compose down 
 ````
