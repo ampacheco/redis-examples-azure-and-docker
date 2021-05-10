@@ -1,0 +1,3 @@
+GET http://localhost:3000/users?email=Sincere@april.biz
+###
+GET http://localhost:3000/cached-users?email=Sincere@april.biz
